@@ -1,0 +1,1 @@
+printf("Hello, my name is {nika} and my surname is {tkebuchava}, I am {16} years old.")
