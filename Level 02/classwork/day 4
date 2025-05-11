@@ -1,0 +1,9 @@
+name = "nika"
+surnname = "tkebuchava"
+age = 16
+
+
+printf(f"Hello, my name is {name} and my surname is {surname}, I am {age} years old.")
+
+
+
